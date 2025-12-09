@@ -1,12 +1,3 @@
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api?username=shrewdluni&theme=radical&hide=contribs&show_icons=true" />
-</a>
-<a href="">
-  <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=shrewdluni&theme=radical&layout=compact" />
-</a>
-<br/>
-<br/>
-
 ## Here Are Some of My Projects 🏗️
 * ♟️ [**Chess Engine Core**](https://github.com/ShrewdLuni/ChessEngineCore)
   * A **Python-based chess engine**
